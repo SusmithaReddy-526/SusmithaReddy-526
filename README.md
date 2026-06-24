@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Susmitha 👋
 
-<!--
-**SusmithaReddy-526/SusmithaReddy-526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech CSE Student
 
-Here are some ideas to get you started:
+🔐 Cybersecurity Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐧 Linux Learner
+
+🐍 Python Learner
+
+💻 Interested in Cybersecurity, Linux and Networking
+
+## Skills
+- Python
+- Linux
+- Cybersecurity Fundamentals
+- Computer Networks
+- Problem Solving
+
+## Current Goal
+Learning Cybersecurity and building practical projects.
