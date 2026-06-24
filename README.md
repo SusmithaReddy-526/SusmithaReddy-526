@@ -4,9 +4,9 @@
 
 🔐 Cybersecurity Enthusiast
 
-🐧 Linux Learner
+🐧 Linux Basics and Command Line
 
-🐍 Python Learner
+🐍 Python Programming Basics
 
 💻 Interested in Cybersecurity, Linux and Networking
 
